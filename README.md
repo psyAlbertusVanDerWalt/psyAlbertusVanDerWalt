@@ -1,4 +1,3 @@
-<!--
 
 <a href="https://github.com/psyAlbertusVanDerWalt">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=psyAlbertusVanDerWalt&theme=radical&langs_count=10" height="150"/>
